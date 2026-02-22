@@ -1,1 +1,239 @@
-# Halina.2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Halina Loves You</title>
+  <link rel="stylesheet" href="HALINA_campaign.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-container">
+      <div class="logo-section">
+        <h1 class="logo">🗳️ HALINA 2026</h1>
+        <p class="tagline">Student Executive Candidate — Check credentials & platforms</p>
+      </div>
+      <nav class="nav-menu">
+        <ul>
+          <li><a href="#home" class="nav-link">Home</a></li>
+          <li><a href="#about" class="nav-link">About</a></li>
+          <li><a href="#members" class="nav-link">Members</a></li>
+          <li><a href="#platforms" class="nav-link">Platforms</a></li>
+          <li><a href="#programs" class="nav-link">Signature Programs</a></li>
+          <li><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content" id="home">
+    <div class="container">
+      <section class="hero">
+        <h2> HALINA Sa Pagbabago! ✨️</h2>
+        <p>“Halina’t, sindihan na natin ang kinabukasan” </p>
+       <p> Kabataang pinoy, ipakita na ang suporta sa HALINA Partylist! Dito, sisiguraduhin namin na ang inyong boses ay pakikinggan at kayo ay aming ipaglalaban! </p>
+      </section>
+
+      <section class="content-section" id="about">
+        <h2 class="section-heading">About Halina</h2>
+        <div class="content-box">
+          <p>Halina stands for Honest and Accountable Leaders Igniting New gen Aspirants!</p>
+      </section>
+
+      <section class="content-section" id="members">
+        <h2 class="section-heading">Members</h2>
+        <div class="content-box">
+          <p><strong>Campaign Team (5 members)</strong></p>
+          <ul class="members-list">
+            <li>Reese Ariola — Student Council President</li>
+            <li>Sithney Genir — Student Council Vice President</li>
+            <li>Yhuan Ramos — Student Council Secretary</li>
+            <li>Tesarine Vargas — Student Council Treasurer</li>
+            <li>Janka Mendoza — Student Council P.R.O</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="content-section" id="platforms">
+        <h2 class="section-heading">Platforms</h2>
+        <div class="content-box">
+          <p>Halina's platforms focus on student welfare, campus improvement, and academic support. Key platform points:</p>
+          <ul class="platforms-list">
+            <li><strong>H: Holistic Student Welfare:</strong> Focuses on mental health, peer counselling, wellness activities that support students academically and mentally. This will help bosconians be open and be able to form a deep connection that gives a further understanding and support whenever they have personal needs.</li>
+            <li><strong>A: Academic Support: </strong> Tutoring programs, study groups and reviewers. This targets all Bosconians but especially the varsities who struggle with time management and with the balance of sports and academics. This will help them catch up with their grades and give them less of a worry. </li>
+            <li><strong>L: Long-Term Reliability:</strong> False promises aren't tolerated and guaranteed commitment in all projects. Here at Halina we provide honest and true service to our fellow Bosconians. We will serve as a voice to the voiceless whenever there are concerns or problems. We will always listen, help and provide solutions.</li>
+            <li><strong>I: Implementing Academically-Focused Activities:</strong> Creating activities that get the students excited to learn. This encourages Bosconians  to be active and participative in academics which can help them gain further knowledge about certain topics.</li>
+            <li><strong>N: Nurturing Future Role Models:</strong> This helps fellow Bosconians build character, invest in leadership, and to prepare the next generation to lead by example. Halina strives to help our fellow Bosconians find themselves and be good examples to next generation aspirants.</li>
+            <li><strong>A: Adaptive Accountability:</strong> All projects will have clear objectives and goals. This benefits not only the bosconians but the whole school, which gives improvement to all of us.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="content-section" id="programs">
+        <h2 class="section-heading">Signature Programs</h2>
+        <div class="content-box">
+          <p>Selected signature programs Halina will prioritize:</p>
+          <ol class="programs-list">
+            <li><strong>CINEBOSCO: THE JHS FILM FESTIVAL 🎬</strong> Lights, camera, action! Societal problems will now be shown through the lens of a Bosconian, now in the BIG screen! It's time to unleash your creative juices, and create films and flicks that capture true Bosconian identity 🎥</li>
+            <li><strong>HYGIENE HUBS 🫧:</strong> We care for your cleanliness, Bosconians! Through the hard days, we're ready to provide the essentials, to keep you locked in for the day! Hygiene hubs will be located near every floor's CR, for your accesibility and convenience 🧼</li>
+            <li><strong>PROJECT LUNTIAN 🌱:</strong> Here at HALINA, we aim to involve the school community in creating a more eco-friendly and green environment for our school campus! Through youth-based weekly clean-up drives, you'll be involved in shaping a greener future 🪴</li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="content-section" id="executives">
+        <h2 class="section-heading">Executive Profiles</h2>
+    
+        <div class="content-box">
+          <p>Meet the campaign team — click a photo or "Read more" to view credentials.</p>
+          <div class="profiles-row" role="list">
+            <div class="profile-card" role="listitem" data-id="0">
+                <img class="profile-photo" src="HALINAR.png" alt="Reese Ariola">
+                <h3 class="profile-name">Reese Ariola</h3>
+                <p class="profile-role">Student Council President</p>
+                <p class="profile-bio">"Halina’t, ika’y aking aalagaan"</p>
+                <button class="btn read-more" data-id="0">Read more</button>
+            </div>
+
+            <div class="profile-card" role="listitem" data-id="1">
+              <img class="profile-photo" src="HALINAS.png" alt="Sithney Genir">
+              <h3 class="profile-name">Sithney Genir</h3>
+              <p class="profile-role">Student Council Vice President</p>
+              <p class="profile-bio">"Halina’t, ika’y aking mamahalin"</p>
+              <button class="btn read-more" data-id="1">Read more</button>
+            </div>
+
+            <div class="profile-card" role="listitem" data-id="2">
+              <img class="profile-photo" src="HALINAY.png" alt="Yhuan Ramos">
+              <h3 class="profile-name">Yhuan Ramos</h3>
+              <p class="profile-role">Student Council Secretary</p>
+              <p class="profile-bio">"Halina’t,  sumama sa pagbabago"</p>
+              <button class="btn read-more" data-id="2">Read more</button>
+            </div>
+
+            <div class="profile-card" role="listitem" data-id="3">
+              <img class="profile-photo" src="HALINAT.png" alt="Tesarine Vargas">
+              <h3 class="profile-name">Tesarine Vargas</h3>
+              <p class="profile-role">Student Council Treasurer</p>
+              <p class="profile-bio">"Halina’t, ika’y aking papasayahin"</p>
+              <button class="btn read-more" data-id="3">Read more</button>
+            </div>
+
+            <div class="profile-card" role="listitem" data-id="4">
+              <img class="profile-photo" src="HALINAA.png" alt="Janka Mendoza">
+              <h3 class="profile-name">Janka Mendoza</h3>
+              <p class="profile-role">Student Council P.R.O</p>
+              <p class="profile-bio">"Halina’t, ika’y aking paahalagahan"</p>
+              <button class="btn read-more" data-id="4">Read more</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+  </main>
+
+  <footer class="footer" id="contact">
+    <div class="footer-container">
+      <div class="footer-content">
+        <h3>VOTE FOR HALINA</h3>
+        <p>&copy; 2026 Halina Campaign. All rights reserved.</p>
+      </div>
+      <nav class="footer-nav">
+        <a href="#home" class="footer-link">Home</a>
+        <a href="#platforms" class="footer-link">Platforms</a>
+        <a href="#programs" class="footer-link">Programs</a>
+        <a href="#contact" class="footer-link">Contact</a>
+      </nav>
+      <div class="contact-info">
+        <p>INSTAGRAM: <a href=https://www.instagram.com/tumungosa.halina/ class="footer-link">tumungosa.halina</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modal for credentials -->
+  <div id="credModal" class="modal" aria-hidden="true">
+    <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" aria-label="Close">×</button>
+      <div id="modalBody">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function(){
+      const credentials = [
+        {
+          name: 'Reese Ariola',
+          role: 'Student Council President',
+          creds: ['With Honor (K-K2), Storytelling champion (G1), With Highest Honors (G1), Eye level representative (G1-G3), MTAP representative (G2-G3), YMCA Art competition (G3), Technolympics EET (G7), Technolympics MT (G8), Prefect for Pastoral Affairs (G5), Class President (G2, G3, G7), Academic Awardee (K-G3), Interschool Chinese Singing competition, Student Council member SY 24-25, Grade 9 Batch Representative SY 25-26, Student Activities Head SY 25-26, YG Promotions Chairperson SY 25-26, Class President SY 25-26, Social Action Treasurer SY 25-26']
+        },
+        {
+          name: 'Sithney Genir',
+          role: 'Student Council Vice President',
+          creds: ['Campaign coordination experience','Logistics & scheduling','Volunteer management']
+        },
+        {
+          name: 'Yhuan Ramos',
+          role: 'Student Council Secretary',
+          creds: ['Social media strategy','Press releases & copywriting','Graphic design basics']
+        },
+        {
+          name: 'Tesarine Vargas',
+          role: 'Student Council Treasurer',
+          creds: ['Consistent honor student from Grade 1-8, Participated in Talinong Busko 2023-2024, Champion in Talinong Busko 2024-2025, Champion in Technolympics 2023-2024, Participated in Technolympics 2024-2025, St. Dominic Savio Awardee 2024-2025, Grade 6 Vice President, Grade 8 P.R.O']
+        },
+        {
+          name: 'Janka Mendoza',
+          role: 'Student Council P.R.O',
+          creds: ['Best in dance - Kinder, Best in CLE - Kinder, With Honors - Kinder, Constant in attendance - Kinder, Excellence in conduct - Kinder, With Honors - Grade 1, Constant in attendance - Grade 1, Excellence in conduct - Grade 1, Excellence in conduct - Grade 2, Constant Attendance -  Grade 2, Diligence awardee - Grade 2, Dilligence Awardee - Grade 3, Excellence In Conduct - Grade 3, Constant in Attendance - Grade 3, Excellence in Conduct - Grade 4, Diligence Awardee - Grade 4, With Honors - Grade 5, Diligence awardee - Grade 5, Excellence in Conduct - Grade 5, Diligence awardee - Grade 6, Excellence in Conduct - Grade 6, Kinder - Class President, Grade 1 - Class Secretary, Grade 2 - Class Secretary, Grade 3 - Class Vice President, Grade 4 - Class Vice President, Grade 5 - Class Vice President, Grade 6 - Class President, Grade 8 - STUDENT COUNCIL OFFICER FOR SY 24\' - 25\', Grade 8 - DB COMMS YG PRESIDENT SY 24\' - 25\', Grade 9 - SOCIAL ACTIONS SECRETARY SY \'25-\'26, Grade 9 - STUDENT COUNCIL OFFICER FOR SY \'25-\'26, Grade 9 - Acting Class Secretary (3rd term) SY \'25-\'26']
+         }
+      ];
+
+      const imageFiles = {
+        0: 'HALINAR.png',
+        1: 'HALINAS.png',
+        2: 'HALINAY.png',
+        3: 'HALINAT.png',
+        4: 'HALINAA.png'
+      };
+
+      const modal = document.getElementById('credModal');
+      const modalBody = document.getElementById('modalBody');
+      const closeBtn = modal.querySelector('.modal-close');
+
+      function openModal(id){
+        const p = credentials[id];
+        modalBody.innerHTML = `
+          <h2 id="modalTitle">${p.name}</h2>
+          <p class="modal-role">${p.role}</p>
+          <ul class="modal-creds">${p.creds.map(c=>`<li>${c}</li>`).join('')}</ul>
+        `;
+        modal.classList.add('open');
+        modal.setAttribute('aria-hidden','false');
+      }
+
+      function closeModal(){
+        modal.classList.remove('open');
+        modal.setAttribute('aria-hidden','true');
+      }
+
+      document.querySelectorAll('.read-more').forEach(btn=>{
+        btn.addEventListener('click', e=>{
+          const id = Number(btn.dataset.id);
+          openModal(id);
+        });
+      });
+
+      document.querySelectorAll('.profile-photo').forEach((img, idx)=>{
+        img.addEventListener('click', ()=> openModal(Number(img.closest('.profile-card').dataset.id)));
+      });
+
+      closeBtn.addEventListener('click', closeModal);
+      modal.addEventListener('click', (e)=>{ if(e.target===modal) closeModal(); });
+      document.addEventListener('keydown', (e)=>{ if(e.key === 'Escape') closeModal(); });
+    })();
+  </script>
+
+</body>
+</html>
